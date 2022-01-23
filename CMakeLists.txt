@@ -12,4 +12,5 @@ find_package(Vulkan REQUIRED)
 add_subdirectory(deps)
 
 # Adding tutorials
-add_subdirectory(ex_01)    # Creating OpenGL Window using FreeGLUT
+add_subdirectory(template)
+add_subdirectory(ex_01) 
